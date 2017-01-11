@@ -1,0 +1,42 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.object{
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: skyblue;
+    color: black;
+    display: table;
+}
+
+h1{
+    margin: 0;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.one{
+    background-image: url(../assets/goodwp.com_32607.jpg);
+}
+
+.two{
+    background-image: url(../assets/Wallpaper-New-York-HD-Background.jpg);
+}
+
+.small{
+    background-image: url(../assets/wallpaper-paris-15-tour-eiffel-passy-cb.jpg);
+}
+
+.third{
+    background-image: url(../assets/san-francisco-future-skyline-wallpaper-2.jpg) ;
+}
